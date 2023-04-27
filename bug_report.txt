@@ -1,1 +1,11 @@
+ID: 25
+Summary: The Start button does not work
+Environment: https:bagbag.com
+Steps to reproduce:
 
+Go to the main menu
+Press the Start button
+Expected result: the start button works, go to the next page
+Actual result: the Start button does not work
+Defect Priority: high
+Environment: mac os 13.2.3, Safari
