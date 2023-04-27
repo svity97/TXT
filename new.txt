@@ -1,0 +1,6 @@
+name: Diana
+surname: Solovyova
+patronymic: Viktorovna
+age: 25
+pet: 0
+salary: 500$
